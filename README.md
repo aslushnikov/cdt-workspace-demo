@@ -35,8 +35,9 @@ Mappings should be established in this order. Otherwise they wouldn't work.
 
 It is impossible to setup mappings for this website.
 
+### FAQ
 
-**How to check workspaces are working**
+### How to check if workspace mappings are working?
 
 1. Open style.css in Sources panel and try chaning "color: white" into "color: yellow" without saving and
 reloading. If Workspace mappings are established successfully
