@@ -3,7 +3,7 @@
 Install:
 
 ```
-npm i
+git clone https://github.com/aslushnikov/cdt-workspace-demo && cd cdt-workspace-demo && npm i
 ```
 
 Run:
